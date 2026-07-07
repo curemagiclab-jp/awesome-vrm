@@ -66,6 +66,7 @@ Resources whose site, documentation, or UI is primarily in English.
 
 - [VRoid Studio](https://vroid.com/en/studio) — Free pixiv application for modeling humanoid avatars and exporting them as VRM (English UI available).
 - [VRoid Hub](https://hub.vroid.com/en) — Platform for uploading, sharing, and managing VRoid/VRM 3D models, with a public API.
+- [VTubeMe](https://vtubeme.com) — Web app that turns a selfie or photo into a rigged humanoid avatar and exports it as VRM.
 
 ### Converters & Interop
 

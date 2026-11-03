@@ -70,6 +70,7 @@ Resources whose site, documentation, or UI is primarily in English.
 ### Converters & Interop
 
 - [VRM Converter for VRChat](https://github.com/esperecyan/VRMConverterForVRChat) — Converts VRM prefabs into VRChat avatars (and back) inside Unity, including mesh merging.
+- [Unity Asset Exporter](https://extractunitypackage.com/unitypackage-to-vrm) — Browser tool that converts humanoid avatars from .unitypackage, PMX, FBX or GLB to VRM 1.0.
 
 ### Inspectors / Viewers / Validators
 
